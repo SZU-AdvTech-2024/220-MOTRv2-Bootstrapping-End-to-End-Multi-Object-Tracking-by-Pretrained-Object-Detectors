@@ -1,0 +1,8 @@
+@inproceedings{REPO220,
+    author = "Zhang, Yuang and Wang, Tiancai and Zhang, Xiangyu",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "22056-22065",
+    title = "{MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors}",
+    year = "2023"
+}
